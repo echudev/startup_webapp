@@ -5,7 +5,7 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Quienes Somos",
+  title: "DefINIT - Quienes Somos",
   description: "Descripción del equipo",
   // other metadata
 };
