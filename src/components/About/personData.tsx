@@ -3,27 +3,35 @@ import { Person } from "@/types/person";
 const personData: Person[] = [
   {
     id: 1,
-    name: "Carlos Blanco",
+    name: "Ludmila Vergini",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-01.jpg",
-    tags: ["CEO"],
+    tags: ["Rol"],
   },
   {
     id: 2,
-    name: "Miguel Mateos",
+    name: "Daniel Ons",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-02.jpg",
-    tags: ["Diseñador"],
+    tags: ["Rol"],
   },
   {
     id: 3,
-    name: "Lorena Ipsum.",
+    name: "Luciana Cientofante",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-03.jpg",
-    tags: ["Frontend Dev"],
+    tags: ["Rol"],
+  },
+  {
+    id: 4,
+    name: "Ezequiel Maranda",
+    paragraph:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+    image: "/images/blog/blog-01.jpg",
+    tags: ["Rol"],
   },
 ];
 export default personData;
