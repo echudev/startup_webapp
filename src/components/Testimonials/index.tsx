@@ -5,10 +5,10 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "Bill Gates",
+    designation: "Fundador @Microsoft",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Un placer trabajar con los pibes, la tienen clara. Si te guias por las caritas que manejan no das ni dos mangos, hasta que los ves laburar y te das cuenta que ahí hay hambre. Que se repita.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -37,8 +37,8 @@ const Testimonials = () => {
     <section className="relative z-10 bg-gray-light/20 py-16 backdrop-blur-sm dark:bg-bg-color-dark/30 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Testimonios"
+          paragraph="Conoce las opiniones de nuestros clientes, todos tienen algo en común y es que después de trabajar con nosotros nos recomiendan. "
           center
         />
 

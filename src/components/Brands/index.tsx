@@ -11,7 +11,7 @@ const Brands = () => {
         mb="30px"
         width="800px"
         title="Estamos listos para ayudarte a crecer"
-        paragraph="estas son algunas de las empresas que empezaron con nosotros y hoy triunfan en el mercado:"
+        paragraph="Éstas son algunas de las empresas que empezaron con nosotros y hoy triunfan en el mercado:"
       />
       <div className="container">
         <div className="-mx-4 flex flex-wrap">
