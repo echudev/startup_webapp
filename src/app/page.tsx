@@ -54,7 +54,7 @@ export default function Home() {
         <Image
           src={homeImage}
           alt={"imagen"}
-          className="z-1 m-8 mx-auto w-[500px] opacity-90"
+          className="z-1 mx-auto my-20 w-[500px] opacity-90"
         />
         <Brands />
         <CirclesBkg />

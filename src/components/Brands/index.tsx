@@ -5,7 +5,7 @@ import SectionTitle from "../Common/SectionTitle";
 
 const Brands = () => {
   return (
-    <section className="mt-10 pt-16">
+    <section className="mt-36 pt-16">
       <SectionTitle
         center
         mb="30px"
