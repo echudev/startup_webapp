@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Features from "@/components/Features";
+import Breadcrumb from "@/components/Common/Breadcrumb";
 
 export const metadata: Metadata = {
   title: "Blog Details Page | Free Next.js Template for Startup and SaaS",
@@ -10,6 +11,10 @@ export const metadata: Metadata = {
 const Services = () => {
   return (
     <>
+      <Breadcrumb
+        pageName="Nuestros Servicios"
+        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+      />
       <Features />
     </>
   );

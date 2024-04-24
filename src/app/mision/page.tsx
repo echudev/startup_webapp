@@ -1,5 +1,4 @@
-import SharePost from "@/components/Blog/SharePost";
-import TagButton from "@/components/Blog/TagButton";
+import TagButton from "@/components/About/TagButton";
 import Image from "next/image";
 
 import { Metadata } from "next";
@@ -329,9 +328,6 @@ const Mision = () => {
                       <h5 className="mb-3 text-sm font-medium text-body-color sm:text-right">
                         Share this post :
                       </h5>
-                      <div className="flex items-center sm:justify-end">
-                        <SharePost />
-                      </div>
                     </div>
                   </div>
                 </div>
