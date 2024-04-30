@@ -22,16 +22,6 @@ const About = () => {
           <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
             Conoce nuestro equipo
           </h2>
-          <p className="text-base  font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-            enim lobortis scelerisque fermentum. Neque sodales ut etiam sit
-            amet. Ligula ullamcorper
-            <strong className="text-primary dark:text-white">malesuada</strong>
-            proin libero nunc consequat interdum varius. Quam pellentesque nec
-            nam aliquam sem et tortor consequat. Pellentesque adipiscing commodo
-            elit at imperdiet.
-          </p>
 
           <div className="-mx-4 flex flex-wrap ">
             {personData.map((person) => (

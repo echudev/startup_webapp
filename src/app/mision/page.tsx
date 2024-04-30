@@ -10,47 +10,35 @@ export const metadata: Metadata = {
 const Mision = () => {
   return (
     <>
-      <Breadcrumb
-        pageName="Nuestra misión"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt u"
-      />
+      <Breadcrumb pageName="" description="" />
       <section className="pb-[120px] pt-[50px]">
         <div className="container">
           <div className="w-full">
             <div>
               <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                Hacemos lo que nos apasiona
+                Misión
               </h2>
               <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-                enim lobortis scelerisque fermentum. Neque sodales ut etiam sit
-                amet. Ligula ullamcorper
-                <strong className="text-primary dark:text-white">
-                  malesuada
-                </strong>
-                proin libero nunc consequat interdum varius. Quam pellentesque
-                nec nam aliquam sem et tortor consequat. Pellentesque adipiscing
-                commodo elit at imperdiet.
+                Ofrecemos soluciones de software que están al servicio de
+                aprendizajes significativos, poniendo en el centro la calidad y
+                accesibilidad de la formación. Nos dedicamos a desarollar
+                productos flexibles, innovadores e inclusivos, que dan respuesta
+                a las necesidades de aprendizaje a lo largo de las distintas
+                etapas de la vida.
               </p>
-              <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                Semper auctor neque vitae tempus quam pellentesque nec.
-                <span className="text-primary dark:text-white">
-                  Amet dictum sit amet justo
-                </span>
-                donec enim diam. Varius sit amet mattis vulputate enim nulla
-                aliquet porttitor. Odio pellentesque diam volutpat commodo sed.
-              </p>
+
               <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
                 Visión
               </h2>
               <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                consectetur adipiscing elit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat mattis
-                vulputate cupidatat.
+                Buscamos convertirnos en referentes en Argentina de la
+                transformación educativa por medio de la innovación tecnológica.
+                Aspiramos a guiar a las empresas, organizaciones e instituciones
+                educativas para aprovechar al máximo las tecnologías
+                establecidas y emergentes en pos de una formación de calidad,
+                que impulse el desarrollo individual y social.
               </p>
-              <ul className="mb-10 list-inside list-disc text-body-color">
+              {/* <ul className="mb-10 list-inside list-disc text-body-color">
                 <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                   Consectetur adipiscing elit in voluptate velit.
                 </li>
@@ -63,8 +51,8 @@ const Mision = () => {
                 <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                   Ligula ullamcorper malesuada proin
                 </li>
-              </ul>
-              <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
+              </ul> */}
+              {/* <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                 <p className="text-center text-base font-medium italic text-body-color">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod incididunt utionals labore et dolore magna aliqua.
@@ -200,12 +188,7 @@ const Mision = () => {
                     </defs>
                   </svg>
                 </span>
-              </div>
-              <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                consectetur adipiscing elit in voluptate velit esse cillum
-                dolore eu fugiat nulla pariatur. Excepteur sint occaecat mattis
-                vulputate cupidatat.
-              </p>
+              </div> */}
             </div>
           </div>
         </div>

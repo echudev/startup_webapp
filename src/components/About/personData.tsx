@@ -6,7 +6,7 @@ const personData: Person[] = [
     name: "Ludmila Vergini",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
+    image: "/images/blog/ludmila.jpg",
     tags: ["Rol"],
   },
   {
@@ -14,8 +14,8 @@ const personData: Person[] = [
     name: "Daniel Ons",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-02.jpg",
-    tags: ["Rol"],
+    image: "/images/blog/ons2.jpg",
+    tags: ["Analista funcional"],
   },
   {
     id: 3,
