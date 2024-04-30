@@ -15,9 +15,10 @@ const About = () => {
     <>
       <Breadcrumb
         pageName="Sobre Nosotros"
-        description="Somos un equipo que blablabla"
+        description="
+        ¡Nuestro equipo está listo para llevar la educación al siguiente nivel! Con una combinación de talentosos desarrolladores, diseñadores y analistas, creamos aplicaciones personalizadas que impulsan la calidad de los aprendizajes. Confíe en nosotros para desarrollar soluciones innovadoras"
       />
-      <section className="pb-[120px] pt-[80px]">
+      <section className="pb-[80px] pt-[50px]">
         <div className="container">
           <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
             Conoce nuestro equipo
